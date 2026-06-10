@@ -1,6 +1,6 @@
 # StyleMix 👗
 
-App móvil para catalogar tu ropa y generar outfits variados sin repetir.
+App móvil para catalogar la ropa y generar outfits variados sin repetir.
 
 ## Stack
 - **Backend:** Python + FastAPI
